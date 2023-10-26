@@ -2,8 +2,8 @@
 Recreating the Chip's Challenge Game using Python
 
 ## Game developers:
-Mikaella Louise Layug
-Ferrand Chester Noche
+-Mikaella Louise Layug
+-Ferrand Chester Noche
 
 ## Project Overview
 
