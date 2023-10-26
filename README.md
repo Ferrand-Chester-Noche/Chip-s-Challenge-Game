@@ -1,6 +1,10 @@
 # Chip-s-Challenge-Game
 Recreating the Chip's Challenge Game using Python
 
+## Game developers:
+###Mikaella Louise Layug
+###Ferrand Chester Noche
+
 ## Project Overview
 
 This README provides a technical specification of the "Chip's Challenge Game" project, outlining its core features and requirements.
